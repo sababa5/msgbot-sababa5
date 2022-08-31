@@ -1,0 +1,31 @@
+{
+    "userData": {
+        "unum": "972508882403@c.us",
+        "isActive":true,
+        "allowPayments": false,
+        "visitersAmmout": 400,
+        "script": {
+            "ifApproved": "",
+            "ifDeclined": "",
+            "ifNotClear": "",
+            "ifUpdateReq": ""
+        }
+    },
+
+    "visitersData": [{
+        "unum": "972508882403@c.us",
+        "answerd": false,
+        "isComing": false,
+        "withAmount": 0
+    }, {
+        "unum": "972506655699@c.us",
+        "answerd": false,
+        "isComing": false,
+        "withAmount": 0
+    }, {
+        "unum": "972506655698@c.us",
+        "answerd": true,
+        "isComing": true,
+        "withAmount": 0
+    }]
+}
